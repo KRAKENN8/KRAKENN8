@@ -1,6 +1,5 @@
 <h1 align="center">Hi, my nickname is Kraken(Nickname on GitHub — `KRAKENN8`)</h1>
-<h3 align="center">Software developer from Estonia</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KRAKENN8&label=Profile%20views&color=0e75b6&style=flat" alt="KRAKENN8" /> </p>
+<h2 align="center">Software developer from Estonia</h3>
 
 - 👨‍💻 I’m currently learning **Python, Java, HTML, CSS**
 
