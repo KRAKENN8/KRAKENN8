@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my nickname is Kraken(Nickname on GitHub — `KRAKENN8`)</h1>
+<h2 align="center">Hi, my nickname is Kraken(Nickname on GitHub — **KRAKENN8**)</h2>
 <h3 align="center">Software developer from Estonia</h3>
 
 - 👨‍💻 I’m currently learning **Python, Java, HTML, CSS**
