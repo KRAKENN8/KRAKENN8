@@ -1,4 +1,4 @@
-<h2 align="center">Hi, my nickname is Kraken</h2>
+<h1 align="center">Hi, my nickname is Kraken</h1>
 <h3 align="center">Software developer from Estonia</h3>
 
 - 👨‍💻 I’m currently learning **Python, Java, HTML, CSS**
