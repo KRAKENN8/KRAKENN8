@@ -29,5 +29,5 @@ I always approach every project with enthusiasm and attention to detail.
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRAKENN8&layout=compact&theme=tokyonight)  
 
-## 📫 Get in Touch  
+## 📫 Contact  
 - ✉️ i.petrov.contact@gmail.com  
